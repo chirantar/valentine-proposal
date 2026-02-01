@@ -177,7 +177,7 @@ h1 {
     font-size: 1.5rem;
     animation: floatUp 4s linear forwards;
     pointer-events: none;
-    z-index: 0;
+    z-index: 1000;
 }
 
 @keyframes floatUp {
