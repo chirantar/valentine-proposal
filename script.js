@@ -76,7 +76,7 @@ function moveButton() {
 
 // Emoji Burst Animation
 function createEmojiBurst() {
-    const emojis = ['💖', '💕', '🥰', '😍', '💘', '💝', '💓'];
+    const emojis = ['👊', '🐼', '😎', '💙', '🔥', '🎉', '🎸', '⭐'];
     const container = document.body;
 
     for (let i = 0; i < 50; i++) {
